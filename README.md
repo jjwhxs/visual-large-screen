@@ -33,8 +33,6 @@
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1060" height="139" alt="链接" src="https://github.com/user-attachments/assets/5ff8e83f-b407-4f13-a820-65bf3bf660d9" />
+访问链接：https://mbd.pub/o/bread/mbd-aJeVk5tx
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
